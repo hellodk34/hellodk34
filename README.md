@@ -8,7 +8,7 @@
 
 👀️ It's my [personal homepage](https://hellodk.com), my [network blog](https://hellodk.cn).
 
-🆗️️ ![](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen
+🆗️️ ![](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen)
 
 <!--
 **hellodk34/hellodk34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
