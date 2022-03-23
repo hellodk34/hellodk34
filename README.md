@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄️ My name is Allen Hua, thank you for visiting my GitHub homepage.
+😄️ My name is Allen Hua, thanks for your visit.
 
 🙏🏻 I am a normal developer, main language used is Java.
 
@@ -11,6 +11,8 @@
 🆗️️ ![](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen)
 
 [![hellodk's github stats](https://github-readme-stats.vercel.app/api?username=hellodk34)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodk34)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hellodk34/hellodk34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
