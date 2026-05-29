@@ -9,6 +9,7 @@ I'm **Allen Hua** — a developer, writer, photographer, and outdoor enthusiast.
 - Mainly work with Java
 - Write about tech, life, and everything in between
 - Blog: [hellodk.cn](https://hellodk.cn)
+- Homepage: [hellodk.com](https://hellodk.com)
 
 📸 **Photography & Outdoors**
 
@@ -21,7 +22,5 @@ I'm **Allen Hua** — a developer, writer, photographer, and outdoor enthusiast.
 - Cooking is my creative outlet
 
 ---
-
-📫 Reach me: huadekai@gmail.com
 
 ![ghpvc](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen)
