@@ -1,30 +1,27 @@
 ### Hi there 👋
 
-😄️ My name is Allen Hua, thanks for your visit.
+I'm **Allen Hua** — a developer, writer, photographer, and outdoor enthusiast.
 
-🙏🏻 I am a normal developer, main language used is Java.
+---
 
-😩️ My programming level is very average, but I want to be a person who is good at programming like you. I am working hard all the time.
+🖥️ **Programming & Writing**
 
-👀️ It's my [personal homepage](https://hellodk.com), my [network blog](https://hellodk.cn).
+- Mainly work with Java
+- Write about tech, life, and everything in between
+- Blog: [hellodk.cn](https://hellodk.cn)
 
-🆗️️ ![](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen)
+📸 **Photography & Outdoors**
 
-[![hellodk's github stats](https://github-readme-stats.vercel.app/api?username=hellodk34)](https://github.com/anuraghazra/github-readme-stats)
+- Love capturing urban scenes and nature
+- Hiking, trail running, and exploring the wild
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodk34)](https://github.com/anuraghazra/github-readme-stats)
+🍳 **Sports & Food**
 
-<!--
-**hellodk34/hellodk34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Stay active, stay hungry
+- Cooking is my creative outlet
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: huadekai@gmail.com
+
+![ghpvc](https://komarev.com/ghpvc/?username=hellodk34&color=brightgreen)
